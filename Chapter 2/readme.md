@@ -5,13 +5,13 @@
 4. install apache-tomcat-8.0.21
 
 # BUILD ALL PROJECTS
-open a terminal window
+open a terminal window and type:
+```
+$cd chapter2
+$mvn -Dmaven.test.skip=true clean install
+```
 
-  $cd chapter2
-  $mvn -Dmaven.test.skip=true clean install
-
-PROJECT 1: legacyrest
--------------------------------
+# PROJECT 1: legacyrest
 move to legacyrest project
 copy target/chapter2-1.0.0-BUILD-SNAPSHOT.war to Tomcat's webapps folder 
 start tomcat server
