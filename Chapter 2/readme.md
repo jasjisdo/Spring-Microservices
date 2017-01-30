@@ -12,8 +12,8 @@ $> mvn -Dmaven.test.skip=true clean install
 ```
 
 # PROJECT 1: legacyrest
-move to legacyrest project
-copy target/chapter2-1.0.0-BUILD-SNAPSHOT.war to Tomcat's webapps folder 
+move to legacyrest project  
+copy target/chapter2-1.0.0-BUILD-SNAPSHOT.war to Tomcat's webapps folder  
 start tomcat server
 
 open http://localhost:8080/ in a browser window
