@@ -7,8 +7,8 @@
 # BUILD ALL PROJECTS
 open a terminal window and type:
 ```
-$cd chapter2
-$mvn -Dmaven.test.skip=true clean install
+$> cd chapter2
+$> mvn -Dmaven.test.skip=true clean install
 ```
 
 # PROJECT 1: legacyrest
