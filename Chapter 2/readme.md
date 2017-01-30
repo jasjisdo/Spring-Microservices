@@ -1,6 +1,6 @@
 # PRE-REQUISITE 
 1. intall JDK 1.8
-2. Install apache-maven-3.3.1
+2. Install apache-maven-3.3.9
 3. Copy files to a folder names chapter2
 4. install apache-tomcat-8.0.21
 
